@@ -24,10 +24,10 @@ This project is a simplified a full stack clone of Stackoverflow. I wrote it to 
 
 ```bash
 # Clone this repository
-$ git clone https://github.com/salihozdemir/stackoverflow-clone
+$ git clone https://github.com/Rahxl-saini/TechAsk.git
 
 # Go into the repository
-$ cd stackoverflow-clone
+$ cd TechAsk
 
 # Go into server
 $ cd server
@@ -92,8 +92,6 @@ $ yarn test
 
 
 #### Deploying Client App on Vercel
-
-- [![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/import/git?s=https%3A%2F%2Fgithub.com%2Fsalihozdemir%2Fstackoverflow-clone&env=SITE_NAME&envDescription=SITE_NAME%20needed%20for%20api%20url)
 
 - Select client directory 
 - Add heroku api url to SITE_NAME enviorement
